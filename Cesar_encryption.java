@@ -1,8 +1,8 @@
 package finals;
 
 public class encryotion {
-//my id is 7036005 my last number is 5
-//so would shift by 5	
+
+//key shift by 5	
 	String[] upper_case_plain = { "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q",
 			"R", "S", "T", "U", "V", "W", "X", "Y", "Z" };
 	String[] lower_case_plain = { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q",
