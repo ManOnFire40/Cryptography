@@ -9,3 +9,13 @@
 ------------------------------------------------------------------------
 5-Block chains
 ------------------------------------------------------------------------
+6-implmenting encryption algorithm and decryption algorithm Vigenère Cipher using python 
+------------------------------------------------------------------------
+7-implmenting encryption algorithm and decryption algorithm Row Transposition Ciphers using python 
+------------------------------------------------------------------------
+8-implmenting encryption algorithm and decryption algorithm RailFence Cipher using python 
+------------------------------------------------------------------------
+9-implmenting encryption algorithm and decryption algorithm Monoalphabetic Cipher using python 
+------------------------------------------------------------------------
+10-implmenting encryption algorithm and decryption algorithm Affine Cipher using python 
+------------------------------------------------------------------------
