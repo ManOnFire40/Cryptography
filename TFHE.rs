@@ -5,13 +5,6 @@ fn query(key: ServerKey, mut target: Ciphertext, inventory: &[(u8, u8)]) -> Ciph
     //target ciphertext corresponding to the item code
     //inventory  plaintext list of all (item, amount) pairs present in the inventory.
 
- // let final_amount;
-  //for ( id,amount ) in inventory
-
-  //let is_found = EQAUL( id , target ) return 1 or 0 
-  //let curr_amount = MULTIPLY (amount , is_found  )
-  //ADD(curr_amount , final_amount)
-
 
 let initial = 0; //cummulative amount since ID iss not unique within inventory
 let combined_target_final_amount = key.unchecked_scalar_add(&mut target, initial);
