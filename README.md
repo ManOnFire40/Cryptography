@@ -14,3 +14,5 @@
 7-Threshold cryptography
 
 8-trust but verify (sum commitment tree)
+
+9-Zero knowledge proof(ZKP)
